@@ -9,7 +9,7 @@ This project applies Logistic Regression to predict whether a person earns more 
 - `au_train.csv` – Training dataset  
 - `au_test.csv` – Testing dataset  
 - `income-Prediction Code file .ipynb` – Jupyter Notebook with full code, outputs, and analysis
-- `income-Segmentation Dashboard.ipynb` – Power BI file for segmentation study  
+- `income-Segmentation Dashboard.pbix` – Power BI file for segmentation study  
 
 ---
 
