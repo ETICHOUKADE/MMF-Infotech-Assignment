@@ -1,6 +1,6 @@
 # Logistic Regression on Adult Income Dataset
 
-This project applies Logistic Regression to predict whether a person earns more than $50K annually using the Adult Income dataset from the UCI Machine Learning Repository. The project includes data preprocessing, model training, and evaluation using standard classification metrics. Also, it includes a Power BI segmentation dashboard to visually analyze groups based on the dataset.
+This project applies Logistic Regression to predict whether a person earns more than $50K annually using the Adult Income dataset. The project includes data preprocessing, model training, and evaluation using standard classification metrics. Also, it includes a Power BI segmentation dashboard to visually analyze groups based on the dataset.
 
 ---
 
